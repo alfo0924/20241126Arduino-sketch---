@@ -8,8 +8,8 @@
 #include <BlynkSimpleEsp32.h>
 
 // Your WiFi credentials
-char ssid[] = " wifiName ";
-char pass[] = " wifiCode ";
+char ssid[] = " wifi Name ";
+char pass[] = " wifi Code ";
 
 void setup()
 {
